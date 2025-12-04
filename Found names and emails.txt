@@ -32,3 +32,36 @@ phone:        +354 5630625
 
 Sveinn Ásgeir Jónsson
 sveinn@althingi.is
+
+#website
+url: https://keldan.is/Fyrirtaeki/Yfirlit/4201693889
+url: https://www.skatturinn.is/fyrirtaekjaskra/leit/kennitala/4201693889
+Fyrirtæki
+Alþingi
+Kennitala
+420169-3889
+Póstfang
+Kirkjustræti, 101 Reykjavík
+Símanúmer
+563-0731
+Skráð
+02.01.1969
+
+#website
+https://skuffan.is/gattir/althingi
+Rafrænn reikningur
+bokhal@althingi.is
+
+#website:
+https://bgp.he.net/dns/althingi.is
+
+Mail Exchangers
+althingi-is.mail.protection.outlook.com(0)
+TXT Records
+v=spf1 a:al-ex-01.althingi.is include:spf.protection.outlook.com include:servers.mcsv.net include:_spf.vist.is -all
+
+abuseipdb-verification=QGLNhocq
+
+62m2bx3zg0lhxm0qmc90z1m4tgx0jknb
+
+MS=ms97465638
