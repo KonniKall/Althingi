@@ -1,6 +1,6 @@
 # Found Emails and names - Althingi Project
 
-#website
+#website:
 
 Stjórn Orlofssjóðs
 Steinunn Haraldsdóttir – skrifstofu Alþingis
@@ -12,4 +12,8 @@ Netfang: orlofsnefnd@althingi.is
 
 Varamaður: Guðný Vala Dýradóttir – skrifstofu Alþingis
 
+#website: https://whois.domaintools.com/althingi.is
+
 Whois Record for Althingi.is
+
+thorbjorg@althingi.is
