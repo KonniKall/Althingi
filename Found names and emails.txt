@@ -65,3 +65,7 @@ abuseipdb-verification=QGLNhocq
 62m2bx3zg0lhxm0qmc90z1m4tgx0jknb
 
 MS=ms97465638
+
+#website with names and Emails
+https://www.althingi.is/um-althingi/skrifstofa-althingis/netfong-og-simanumer-starfsmanna/
+https://www.althingi.is/thingmenn/thingmenn/netfong-og-simanumer/
