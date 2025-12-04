@@ -1,0 +1,13 @@
+# Tools and Commands Used - Althingi Project
+
+### Tool: subfinder:
+
+### Commands:
+
+
+### Tool: HTTPX:
+
+### Commands:
+
+HTTPX: httpx -l althingi_subdomains.txt -title -status-code -tech-detect -cdn -follow-redirects -timeout 10 -ports 80,443,8080,8443,8888 -dashboard -o althingi_httpx.csv
+
