@@ -17,3 +17,18 @@ Varamaður: Guðný Vala Dýradóttir – skrifstofu Alþingis
 Url: https://whois.domaintools.com/althingi.is
 Whois Record for Althingi.is
 thorbjorg@althingi.is
+
+#website
+
+https://securitytrails.com/domain/althingi.is/history/soa
+
+email: hostmaster.althingi.is
+
+#website
+url: https://dawhois.com/
+Þorbjörg Árnadóttir
+thorbjorg@althingi.is
+phone:        +354 5630625
+
+Sveinn Ásgeir Jónsson
+sveinn@althingi.is
