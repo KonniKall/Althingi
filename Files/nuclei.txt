@@ -1,0 +1,34 @@
+[dns-waf-detect:cloudflare] [dns] [info] althingi.is
+[INF] Using Interactsh Server: oast.pro
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/althingi.is/v2.0/.well-known/openid-configuration ["05a20268-aaea-4bb5-bb78-960b0462185e"]
+[external-service-interaction] [http] [info] https://althingi.is
+[external-service-interaction] [http] [info] https://althingi.is
+[missing-sri] [http] [info] https://www.althingi.is// ["https://plausible.io/js/script.file-downloads.outbound-links.tagged-events.js","https://cdn1.readspeaker.com/script/11325/webReader/webReader.js?pids=wr"]
+[waf-detect:cloudflare] [http] [info] https://althingi.is
+[tls-version] [ssl] [info] althingi.is:443 ["tls12"]
+[tls-version] [ssl] [info] althingi.is:443 ["tls13"]
+[robots-txt] [http] [info] https://althingi.is/robots.txt
+[robots-txt-endpoint] [http] [info] https://althingi.is/robots.txt
+[xss-deprecated-header] [http] [info] https://althingi.is ["1; mode=block"]
+[rdap-whois:status] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["active"]
+[rdap-whois:registrantEmail] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is [""]
+[rdap-whois:registrantAddress] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["150","Iceland","Kirkjustraeti 8","Reykjav\u00edk"]
+[rdap-whois:registrantCountry] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["Iceland"]
+[rdap-whois:nameServers] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["ajay.ns.cloudflare.com","harlee.ns.cloudflare.com"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["false"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["1991-01-09T00:00:01+00:00"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["2025-01-10T09:40:01+00:00"]
+[rdap-whois:registrantName] [http] [info] https://rdap.isnic.is/rdap/domain/althingi.is ["Al\u00feingi"]
+[tech-detect:cloudflare] [http] [info] https://althingi.is
+[nameserver-fingerprint] [dns] [info] althingi.is ["ajay.ns.cloudflare.com.","harlee.ns.cloudflare.com."]
+[caa-fingerprint] [dns] [info] althingi.is ["digicert.com; cansignhttpexchanges=yes","letsencrypt.org","pki.goog; cansignhttpexchanges=yes","ssl.com","comodoca.com"]
+[spf-record-detect] [dns] [info] althingi.is ["v=spf1 a:al-ex-01.althingi.is include:spf.protection.outlook.com include:servers.mcsv.net include:_spf.vist.is -all""]
+[txt-fingerprint] [dns] [info] althingi.is [""abuseipdb-verification=QGLNhocq"",""v=spf1 a:al-ex-01.althingi.is include:spf.protection.outlook.com include:servers.mcsv.net include:_spf.vist.is -all"",""62m2bx3zg0lhxm0qmc90z1m4tgx0jknb"",""MS=ms97465638""]
+[dmarc-detect] [dns] [info] _dmarc.althingi.is [""v=DMARC1;  p=quarantine; rua=mailto:86bed6a2afaf4e5892b4c1c7a0c5ca8f@dmarc-reports.cloudflare.net""]
+[dkim-record-detect] [dns] [info] selector1._domainkey.althingi.is ["v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4o9ZvQXhCf19spnut1hIER92gqY4ivWNlpdtzPZNcNfPkzpoQggYH3/L9duvlEi0GHe2zVwe3lcfufBQXt1a5cW1nufUt/zybhonlva5JLwL9AYTEr/LinD4IewjCagol4lk+L9zsoNow6Ea7RntKxWN4KDjCmJBlbXh6aV5UQwIDAQAB; n=1024,1482136844,1" "497861644""]                                                                                                                                                                                                                                                                                                 
+[dkim-record-detect] [dns] [info] selector2._domainkey.althingi.is ["v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEzQtPYs4j49UrsdVcvvbHgPUP2QbN+Nj0llxrRQRqaAhUG4h8j+u38Lh5SUeuvAy8q0uE0b3VOfk1UOwZwW+FBWia3Rg3tiMsY6N366jP/+MoFq+XgwAzgBanmtDGaVlKmrsHvd0siujQh13gD9HAo9nf0kdN8JxokktYo/7CnQIDAQAB; n=1024,1482136844,1""]                                                                                                                                                                                                                                                                                                             
+[mx-fingerprint] [dns] [info] althingi.is ["0 althingi-is.mail.protection.outlook.com."]
+[mx-service-detector:Office 365] [dns] [info] althingi.is
+[ssl-issuer] [ssl] [info] althingi.is:443 ["Google Trust Services"]
+[ssl-dns-names] [ssl] [info] althingi.is:443 ["althingi.is","*.althingi.is"]
+[wildcard-tls] [ssl] [info] althingi.is:443 ["CN: althingi.is","SAN: [althingi.is *.althingi.is]"]

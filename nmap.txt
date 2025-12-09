@@ -1,0 +1,110 @@
+# Scan for filtered IPs
+nmap -T4 -A --top-ports 100 8.47.69.2 8.6.112.2
+
+nmap -T4 -A --top-ports 100 8.47.69.2 8.6.112.2
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-09 16:39 GMT
+Nmap scan report for 8.47.69.2
+Host is up (0.0030s latency).
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+443/tcp  open  ssl/http Cloudflare http proxy
+| ssl-cert: Subject: commonName=cdnjs.cloudflare.com
+| Subject Alternative Name: DNS:cdnjs.cloudflare.com, DNS:*.cdnjs.cloudflare.com
+| Not valid before: 2025-11-15T20:49:06
+|_Not valid after:  2026-02-13T21:49:04
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_http-server-header: cloudflare
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+8080/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+8443/tcp open  ssl/http Cloudflare http proxy
+|_http-server-header: cloudflare
+| tls-alpn: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+|_http-title: 403 Forbidden
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=cdnjs.cloudflare.com
+| Subject Alternative Name: DNS:cdnjs.cloudflare.com, DNS:*.cdnjs.cloudflare.com
+| Not valid before: 2025-11-15T20:49:06
+|_Not valid after:  2026-02-13T21:49:04
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: bridge|VoIP adapter|general purpose
+Running (JUST GUESSING): Oracle Virtualbox (95%), Slirp (95%), AT&T embedded (91%), QEMU (89%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:danny_gasparovski:slirp cpe:/a:qemu:qemu
+Aggressive OS guesses: Oracle Virtualbox Slirp NAT bridge (95%), AT&T BGW210 voice gateway (91%), QEMU user mode network gateway (89%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+1   0.98 ms 10.0.2.2
+2   0.64 ms 8.47.69.2
+
+Nmap scan report for 8.6.112.2
+Host is up (0.0030s latency).
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+|_http-server-header: cloudflare
+443/tcp  open  ssl/http Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: 403 Forbidden
+|_ssl-date: TLS randomness does not represent time
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: commonName=cdnjs.cloudflare.com
+| Subject Alternative Name: DNS:cdnjs.cloudflare.com, DNS:*.cdnjs.cloudflare.com
+| Not valid before: 2025-11-15T20:49:06
+|_Not valid after:  2026-02-13T21:49:04
+| tls-alpn: 
+|   h2
+|_  http/1.1
+8080/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Site doesn't have a title (text/plain; charset=UTF-8).
+8443/tcp open  ssl/http Cloudflare http proxy
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| tls-nextprotoneg: 
+|   h2
+|_  http/1.1
+|_ssl-date: TLS randomness does not represent time
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=cdnjs.cloudflare.com
+| Subject Alternative Name: DNS:cdnjs.cloudflare.com, DNS:*.cdnjs.cloudflare.com
+| Not valid before: 2025-11-15T20:49:06
+|_Not valid after:  2026-02-13T21:49:04
+|_http-title: 403 Forbidden
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: bridge|VoIP adapter|general purpose
+Running (JUST GUESSING): Oracle Virtualbox (96%), Slirp (96%), AT&T embedded (92%), QEMU (90%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:danny_gasparovski:slirp cpe:/a:qemu:qemu
+Aggressive OS guesses: Oracle Virtualbox Slirp NAT bridge (96%), AT&T BGW210 voice gateway (92%), QEMU user mode network gateway (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 8.47.69.2
+2   0.57 ms 8.6.112.2
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 2 IP addresses (2 hosts up) scanned in 28.29 seconds
+                                                                               

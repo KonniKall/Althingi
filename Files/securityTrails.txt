@@ -1,0 +1,80 @@
+### securitytrails
+Domain	Rank	Hosting Provider	Mail Provider
+althingi.is	23,344	Cloudflare, Inc.	Microsoft Corporation
+sic.althingi.is	461,586	Cloudflare, Inc.	‐
+rna.althingi.is	3,542,778	Cloudflare, Inc.	‐
+virvir.althingi.is		‐	‐
+mx2.althingi.is		‐	‐
+umsagnir.althingi.is		Cloudflare, Inc.	‐
+butar.althingi.is		Cloudflare, Inc.	‐
+devaudkenning.althingi.is		Cloudflare, Inc.	‐
+irpa.althingi.is		‐	‐
+freyr.althingi.is		‐	‐
+meet.althingi.is		‐	‐
+autodiscover.althingi.is		Microsoft Corporation	‐
+al-ex-01.althingi.is		Syn hf	‐
+sel.althingi.is		‐	‐
+innri-nyr.althingi.is		Cloudflare, Inc.	‐
+postur-mfa.althingi.is		Microsoft Corporation	‐
+audkenning.althingi.is		Cloudflare, Inc.	‐
+vitur.althingi.is		Syn hf	‐
+vivo.althingi.is		Cloudflare, Inc.	‐
+fsa.althingi.is		1984 ehf	‐
+air.althingi.is		‐	‐
+smtp2.althingi.is		‐	‐
+niflheimur.althingi.is		Syn hf	‐
+adstodarmadur.althingi.is		‐	‐
+hnoss.althingi.is		Syn hf	‐
+askur.althingi.is		Syn hf	‐
+eplica-innri.althingi.is		Cloudflare, Inc.	‐
+eir.althingi.is		Syn hf	‐
+innri.althingi.is		Cloudflare, Inc.	‐
+fundagatt.althingi.is		‐	‐
+enterpriseregistration.althingi.is		Microsoft Corporation	‐
+sip.althingi.is		‐	‐
+beta.althingi.is		Cloudflare, Inc.	‐
+rannsoknarnefnd.althingi.is		Cloudflare, Inc.	‐
+webconf.althingi.is		‐	‐
+ff01.althingi.is		‐	‐
+ns2.althingi.is		‐	‐
+mail.umb.althingi.is		‐	‐
+fjarfundur.althingi.is		‐	‐
+fjarfundur02.althingi.is		‐	‐
+fundur.althingi.is		‐	‐
+utsending.althingi.is		‐	‐
+vod.althingi.is		1984 ehf	‐
+m.althingi.is		Cloudflare, Inc.	‐
+mx1.althingi.is		Syn hf	‐
+lo.althingi.is		Cloudflare, Inc.	‐
+eplica.althingi.is		Cloudflare, Inc.	‐
+testthg.althingi.is		Cloudflare, Inc.	‐
+eplica4.althingi.is		‐	‐
+portal.althingi.is		‐	‐
+testaudkenning.althingi.is		Cloudflare, Inc.	‐
+skoll.althingi.is		Cloudflare, Inc.	‐
+da.althingi.is		Syn hf	‐
+apithg.althingi.is		Cloudflare, Inc.	‐
+frigg.althingi.is		‐	‐
+www2.althingi.is		‐	‐
+postur.althingi.is		Cloudflare, Inc.	‐
+eplica3.althingi.is		Cloudflare, Inc.	‐
+magr.althingi.is		‐	‐
+huginn.althingi.is		Cloudflare, Inc.	‐
+enterpriseenrollment.althingi.is		Microsoft Corporation	‐
+testapithg.althingi.is		Cloudflare, Inc.	‐
+av.althingi.is		‐	‐
+skypepool.althingi.is		‐	‐
+lyncdiscover.althingi.is		‐	‐
+akstur.althingi.is		1984 ehf	‐
+www.althingi.is		Cloudflare, Inc.	‐
+ns1.althingi.is		‐	‐
+umb.althingi.is		Syn hf	‐
+g.althingi.is		Cloudflare, Inc.	‐
+sbc.althingi.is		‐	‐
+www3.althingi.is		‐	‐
+devapithg.althingi.is		Cloudflare, Inc.	‐
+fjarfundur03.althingi.is		‐	‐
+thingmannagatt.althingi.is		Cloudflare, Inc.	‐
+skema.althingi.is		‐	‐
+proxy.althingi.is		‐	‐
+netvarp.althingi.is		‐	‐
