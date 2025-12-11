@@ -9,4 +9,5 @@ This project will contain txt files, screen shots (png), tools and commands used
 # Team Memebers
 
 Silja Rós Svansdóttir Þormar
+
 Nathalie Monika Moser
