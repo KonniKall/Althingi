@@ -1,3 +1,4 @@
+## https://osint.aadinternals.com/
 althingi.is	
 althingi.mail.onmicrosoft.com	
 althingi.onmicrosoft.com	

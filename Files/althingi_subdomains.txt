@@ -1,4 +1,4 @@
-
+## Subfinder tool.
 _dmarc.althingi.is
 selector1._domainkey.althingi.is
 adstodarmadur.althingi.is
